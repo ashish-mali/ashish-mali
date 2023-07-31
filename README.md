@@ -121,4 +121,3 @@ Technologies I've been learning and using so far :
 </p>
 
 -----
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
